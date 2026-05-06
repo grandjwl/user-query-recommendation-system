@@ -113,26 +113,3 @@
 ![image](https://github.com/user-attachments/assets/39550fa0-b709-4a67-a4e2-00eb34f02af0)
 
 ![image](https://github.com/user-attachments/assets/23a327a0-18c7-4132-8932-ef880c386b88)
-
----
-
-## 기술 스택
-
-- Python  
-- Selenium / BeautifulSoup  
-- Pandas / NumPy  
-- SentenceTransformer  
-
----
-
-## 시스템 구조
-
-유저 입력 → (선택) 필터링 → 텍스트 임베딩 → 유사도 계산 → 점수 산정 → 추천 결과 출력
-
----
-
-## 성능 및 결과
-
-- 정성 평가 기준으로, 입력 쿼리와 관련성이 높은 제품이 상위에 배치되는 경향을 확인했습니다.  
-
-- 필터링 적용 여부에 따라 추천 결과의 정확도와 다양성이 달라지는 점을 확인했습니다.
